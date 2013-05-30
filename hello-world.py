@@ -6,4 +6,4 @@ name = name.capitalize()
 if name.isalpha() and len(name) > 0:
     print "Hello " + name + "!"
 else:
-    print "Invalid input"
+    print "Invalid Input"
